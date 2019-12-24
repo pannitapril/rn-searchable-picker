@@ -1,3 +1,3 @@
-import CustomComponent from './src/custom-component';
+import SearchablePicker from './src/searchable-picker';
 
 export default CustomComponent;
